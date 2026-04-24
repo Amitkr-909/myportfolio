@@ -32,11 +32,11 @@ portfolio/
 2. Open `index.html` in your browser  
 
 ## 📷 Screenshots
-<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/3ef9a207-5902-4db4-aa5a-6f578fbc88b7" />
-<img width="1920" height="1080" alt="Screenshot 2" src="https://github.com/user-attachments/assets/7b33a72a-f7fd-4a40-8d1b-bf268808195c" />
-<img width="1920" height="1080" alt="Screenshot 3" src="https://github.com/user-attachments/assets/64b5d991-b7f3-4c70-9fca-571818a9b862" />
-<img width="1920" height="1080" alt="Screenshot 4" src="https://github.com/user-attachments/assets/759c7845-d568-48a7-bdad-f3724e25f978" />
-<img width="1920" height="1080" alt="Screenshot 5" src="https://github.com/user-attachments/assets/6e479b58-6c49-47cb-8035-1b32a427f5a0" />
+<img width="1920" height="1017" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c7f7119a-e999-4dee-94cb-decb19a74845" />
+<img width="1920" height="1015" alt="Screenshot 2" src="https://github.com/user-attachments/assets/bcec4f79-422d-4fc1-aa9f-532082716aa4" />
+<img width="1920" height="1013" alt="Screenshot 3" src="https://github.com/user-attachments/assets/475bc018-25a9-4158-a8b6-26a6b8a1a37b" />
+<img width="1920" height="1020" alt="Screenshot 4" src="https://github.com/user-attachments/assets/40293191-a917-4b08-9006-1dafa96d7429" />
+<img width="1920" height="1013" alt="Screenshot 5" src="https://github.com/user-attachments/assets/da90caf7-0cdd-4b73-a60e-9e7c6292edb2" />
 
 ## 📬 Contact
 - Email: kr.amit700042@gmail.com  
